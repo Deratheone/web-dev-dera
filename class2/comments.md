@@ -1,0 +1,1 @@
+need to learn to config ip and also preview on mobile
